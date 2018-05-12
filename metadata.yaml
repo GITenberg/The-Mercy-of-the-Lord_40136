@@ -1,0 +1,37 @@
+_repo: The-Mercy-of-the-Lord_40136
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Steel, Flora Annie Webster
+    alias: Steel, F. A. (Flora Annie)
+    birthdate: 1847
+    deathdate: 1929
+    gutenberg_agent_id: '1973'
+    url: http://www.gutenberg.org/2009/agents/1973
+    wikipedia: http://en.wikipedia.org/wiki/Flora_Annie_Steel
+description: ''
+gutenberg_issued: '2012-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40136'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- Fiction'
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+- !lcsh 'British -- India -- Fiction'
+tableOfContents: The mercy of the Lord -- Salt duty -- The wisdom of our Lord Ganêsh
+  -- The son of a king -- The birth of fire -- The gift of battle -- The value of
+  a vote -- Salt of the earth -- An appreciated rupee -- The Lake of High Hope --
+  Retaining fees -- His chance -- The flatterer for gain -- A maiden's prayer -- Silver
+  speech and golden silence -- The footsteps of a dog -- The finding of Private Flanigan
+  -- Rex et Imp -- There arose a man -- Dry goods -- The regeneration of Daisy Bell
+  -- A song without words -- Segregation -- Slave of the court.
+title: The Mercy of the Lord
+url: http://www.gutenberg.org/ebooks/40136
